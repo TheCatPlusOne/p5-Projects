@@ -1,0 +1,13 @@
+F[-FX][+FX]FF[FFX]FX
+
+F[-FX]F[+FX]FFF[--FX]F[++FX]X
+
+FFF[-XF--][F++]F[+XF+]+FF-F[+XF++][F--]F[-XF-]
+
+FF[-XF--]F[+XF]FF+F[+XF++]F[-XF]
+
+FFF[-XF--]F[+XF]FF+F[XF++]F[-XF]
+
+F[FF-FXX]FF[FF+FXX]F-
+
+FF[--FF+XFFXFFXFFX]+
