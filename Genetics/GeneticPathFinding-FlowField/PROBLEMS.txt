@@ -1,0 +1,15 @@
+PROBLEMS
+
+0 - IT'S NOT GETTING THE FUCKING JOB DONE
+
+1 - Acceleration is creating a hard time for steering the creature
+
+2 - Not getting 2 parents
+	Maybe it's a bad idea, because getting the average will change the path a lot
+	Or it will just make it in a long run
+
+3 - Missing some kind of obstacle for the creatures
+
+4 - I'm not actually using a flowfield with noise(), it's completely random
+
+5 - Creature not pointing to the correct direction when moving
